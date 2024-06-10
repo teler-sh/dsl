@@ -366,8 +366,8 @@ github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfC
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
-github.com/kitabisa/teler-waf v1.2.5 h1:fBNgZic5A0C/Q1D0PZJ5uZHF0JLSH/p+oEVc2xrLZIw=
-github.com/kitabisa/teler-waf v1.2.5/go.mod h1:H/mvJ2gHWNArDheunY/VM0LlNY/OSABakskvE8DdbiY=
+github.com/teler-sh/teler-waf v1.2.5 h1:fBNgZic5A0C/Q1D0PZJ5uZHF0JLSH/p+oEVc2xrLZIw=
+github.com/teler-sh/teler-waf v1.2.5/go.mod h1:H/mvJ2gHWNArDheunY/VM0LlNY/OSABakskvE8DdbiY=
 github.com/klauspost/compress v1.15.11/go.mod h1:QPwzmACJjUTFsnSHH934V6woptycfrDDJnH7hvFVbGM=
 github.com/klauspost/compress v1.17.4 h1:Ej5ixsIri7BrIjBkRZLTo6ghwrEtHFk7ijlczPW4fZ4=
 github.com/klauspost/compress v1.17.4/go.mod h1:/dCuZOvVtNoHsyb+cuJD3itjs3NbnF6KH9zAO4BDxPM=

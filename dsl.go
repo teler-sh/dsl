@@ -22,7 +22,7 @@ import (
 
 	"github.com/expr-lang/expr"
 	"github.com/daniel-hutao/spinlock"
-	"github.com/kitabisa/teler-waf/threat"
+	"github.com/teler-sh/teler-waf/threat"
 	"github.com/projectdiscovery/mapcidr"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
