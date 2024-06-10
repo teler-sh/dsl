@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/daniel-hutao/spinlock v0.1.0
 	github.com/expr-lang/expr v1.16.2
-	github.com/kitabisa/teler-waf v1.2.5
+	github.com/teler-sh/teler-waf v1.2.5
 	github.com/projectdiscovery/mapcidr v1.1.16
 	github.com/samber/lo v1.39.0
 	github.com/stretchr/testify v1.9.0

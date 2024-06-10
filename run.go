@@ -7,7 +7,7 @@ package dsl
 import (
 	"github.com/expr-lang/expr"
 	"github.com/expr-lang/expr/vm"
-	"github.com/kitabisa/teler-waf/threat"
+	"github.com/teler-sh/teler-waf/threat"
 	"github.com/samber/lo"
 )
 
